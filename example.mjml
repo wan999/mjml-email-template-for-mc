@@ -103,12 +103,12 @@
           <mj-text color="#f8fcff" align="center" font-size="14px" padding-top="0px" padding-bottom="30px" >
               © *|CURRENT_YEAR|* *|LIST:COMPANY|* 
               </br>
-              *|USER:URL|*
-              </br>
               *|USER:ADDRESS|*
               </br>
               </br>
-              <a href="*|USER:EMAIL|*" style="color: white;">*|USER:EMAIL|*</a>
+              Visit <a href="*|USER:URL|*" style="color: white; text-decoration: none;">*|USER:URL|*</a>
+              </br>
+              <a href="*|USER:EMAIL|*" style="color: white; text-decoration: none;">*|USER:EMAIL|*</a>
 
           </mj-text>
         </mj-column>
