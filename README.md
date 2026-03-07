@@ -1,4 +1,4 @@
-# NMJML TEMPLATE AND MAILCHIMP TEMPLATE TAGS
+# MJML TEMPLATE AND MAILCHIMP TEMPLATE TAGS
 #### MJML DOCUMENTATION: [MJML Documentation](https://documentation.mjml.io/)
 #### MAILCHIMP TEMPLATE TAGS: [Mailchimp Template Language](https://templates.mailchimp.com/getting-started/template-language/)
 #### Description:
