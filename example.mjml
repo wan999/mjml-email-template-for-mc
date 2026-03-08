@@ -67,6 +67,10 @@
 
         </mj-column>
 
+        <mj-column width="35%">
+            <mj-image src="./image.jpg" width="auto" alt="" align="center" padding="" href="https://www.google.co.uk"/>
+          </mj-column>
+
         <mj-column width="65%">
           <mj-text color="#637381" font-weight="bold" font-size="18px">
             Sub-Header
@@ -78,10 +82,6 @@
             Order Item Now
           </mj-button>
         </mj-column>
-
-          <mj-column width="35%">
-            <mj-image src="./image.jpg" width="auto" alt="" align="center" padding="" href="https://www.google.co.uk"/>
-          </mj-column>
 
       </mj-section>
     </mj-wrapper>
